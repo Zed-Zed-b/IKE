@@ -15,7 +15,7 @@ IKE is developed in C++ and can be built from source using CMake. The [test](./
 ### Step 1: Download the Source Code and Create a Build Directory
 
 ``` bash
-git clone ...
+git clone https://github.com/Zed-Zed-b/IKE
 cd IKE
 mkdir build && cd build
 ```
