@@ -1,4 +1,4 @@
-# Improving the Retrieval Performance in LLM-Embedded Databases via Isolation Kernel
+# Isolation Kernel Meets LLMs: Lightweight, Training-free Binary Embeddings for Fast Retrieval
 
 ## Hardware Requirements
 
